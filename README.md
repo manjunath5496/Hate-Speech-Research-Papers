@@ -113,5 +113,33 @@ Social Media and Hate Crime </a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Hate-Speech-Research-Papers/blob/master/ha(61).pdf" style="text-decoration:none;">Second Workshop on Abusive Language Online</a></li>
  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Hate-Speech-Research-Papers/blob/master/ha(62).pdf" style="text-decoration:none;">Restricting Freedom of Expression: Standards and Principles</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Hate-Speech-Research-Papers/blob/master/ha(63).pdf" style="text-decoration:none;">Countering Hate Speech
+in Elections: Strategies for Electoral Management Bodies</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Hate-Speech-Research-Papers/blob/master/ha(64).pdf" style="text-decoration:none;">A Comparative Approach to Social Media Extreme Speech: Online Hate Speech as Media Commentary</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Hate-Speech-Research-Papers/blob/master/ha(65).pdf" style="text-decoration:none;">Countering Hate Speech In India: Looking For Answers Beyond The Law</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Hate-Speech-Research-Papers/blob/master/ha(66).pdf" style="text-decoration:none;">Hate Speech and Freedom of Expression: Balancing Social Good and Individual Liberty</a></li> 
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Hate-Speech-Research-Papers/blob/master/ha(67).pdf" style="text-decoration:none;">Hate speech:
+an overview and recommendations for combating it</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Hate-Speech-Research-Papers/blob/master/ha(68).pdf" style="text-decoration:none;">The Concept of Racist Hate Speech and its Evolution over time</a></li> 
+ 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Hate-Speech-Research-Papers/blob/master/ha(69).pdf" style="text-decoration:none;">Online Hate Speech: Hate or Crime?</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Hate-Speech-Research-Papers/blob/master/ha(70).pdf" style="text-decoration:none;">Digital Hatred, Real Violence:
+Majoritarian Radicalisation and Social Media in India</a></li> 
+  
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Hate-Speech-Research-Papers/blob/master/ha(71).pdf" style="text-decoration:none;">IRLab@IITBHU at HASOC 2019: Traditional Machine Learning for Hate Speech and Offensive Content Identification</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Hate-Speech-Research-Papers/blob/master/ha(72).pdf" style="text-decoration:none;">Hate Speech on Social Media:
+Implications of private regulation and governance gaps</a></li> 
+ 
  
  </ul>
